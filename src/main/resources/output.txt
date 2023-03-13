@@ -8,8 +8,8 @@ repostiory we have to declare the methods for consistency and abstraction,
 In servic class we have written a business logic and
 model class we add the actual data representations.
 
-git url:https://github.com/sobhamadhuri/cricketteam.git
-
+git url:
+https://github.com/sobhamadhuri/cricketteam.git
 ide : https://learning.ccbp.in/ide/JSBCPS2TFZ
 
 DNS URL for viewing the desired outcome : https://sobhamadhurijjynjjsbcps2tfz.drops.nxtwave.tech
